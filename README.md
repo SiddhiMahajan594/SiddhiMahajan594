@@ -11,19 +11,6 @@
 
 ---
 
-<h2 align="center">🌐 Connect with Me</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/siddhi-mahajan05">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:siddhidmahajan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
@@ -81,4 +68,17 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&background=00000000"/>
+</p>
+
+---
+
+<h2 align="center">🌐 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/siddhi-mahajan05">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:siddhidmahajan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
